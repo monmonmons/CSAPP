@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "queue": "c",
+        "random": "c",
+        "csapp.h": "c",
+        "*.tcc": "c"
+    }
+}
